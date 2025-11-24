@@ -187,6 +187,10 @@ tiling/settings.py
 ```
 
 ---
+## 📄 Documentation
+- [Final Presentation](docs/final_presentation.pdf)
+
+---
 ## 👥 Meet the Team
 
 | Name | Links |
